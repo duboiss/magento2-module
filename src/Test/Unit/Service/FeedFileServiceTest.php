@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Omikron\Factfinder\Service;
+namespace Omikron\Factfinder\Test\Unit\Service;
 
 use PHPUnit\Framework\TestCase;
 
